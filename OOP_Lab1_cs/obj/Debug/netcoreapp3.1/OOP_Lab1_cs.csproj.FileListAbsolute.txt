@@ -1,0 +1,22 @@
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.csprojAssemblyReference.cache
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.AssemblyInfoInputs.cache
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.AssemblyInfo.cs
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.exe
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.deps.json
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.runtimeconfig.json
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.runtimeconfig.dev.json
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.dll
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.pdb
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.dll
+D:\MY_DOK\КПИ\Прога\Лр\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.pdb
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.exe
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.deps.json
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.runtimeconfig.json
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.runtimeconfig.dev.json
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.dll
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\bin\Debug\netcoreapp3.1\OOP_Lab1_cs.pdb
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.csprojAssemblyReference.cache
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.AssemblyInfoInputs.cache
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.AssemblyInfo.cs
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.dll
+d:\MY_DOK\КПИ\Програмування - 2\Лабораторні роботи\OOP_Lab1_cs\obj\Debug\netcoreapp3.1\OOP_Lab1_cs.pdb
