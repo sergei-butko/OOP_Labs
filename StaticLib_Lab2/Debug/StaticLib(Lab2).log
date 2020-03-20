@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  StaticLib(Lab2).cpp
+C:\Documents\КПИ\Семестр №2\Програмування - 2\OOP_Labs\StaticLib(Lab2)\StaticLib(Lab2).cpp(62,27): warning C4018: '<': signed/unsigned mismatch
+C:\Documents\КПИ\Семестр №2\Програмування - 2\OOP_Labs\StaticLib(Lab2)\StaticLib(Lab2).cpp(67,22): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Documents\КПИ\Семестр №2\Програмування - 2\OOP_Labs\StaticLib(Lab2)\StaticLib(Lab2).cpp(93,27): warning C4018: '<': signed/unsigned mismatch
+  StaticLib(Lab2).vcxproj -> C:\Documents\КПИ\Семестр №2\Програмування - 2\OOP_Labs\OOP_Lab2_cpp\Debug\StaticLib(Lab2).lib
