@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "OK4wkmRdZ3t541nu0TqW754KdVO7wktlcIiOWrlEX0jipuEQSux1FDHTe5rWGZN+4FByM1E8MufYXVKaBQzoqA==",
+  "success": true,
+  "projectFilePath": "C:\\Documents\\КПИ\\Семестр №2\\Програмування - 2\\Лабораторні роботи\\OOP_Labs\\MyLibrary_Lab3\\MyLibrary_Lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
