@@ -1,0 +1,2 @@
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\OOP_Lab6_cpp\Debug\StaticLib_Lab6.pdb
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\StaticLib_Lab6\Debug\StaticLib_Lab6.pdb
