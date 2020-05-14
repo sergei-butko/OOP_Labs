@@ -1,0 +1,2 @@
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\OOP_Lab8_cpp\Debug\OOP_Lab8_cpp.exe
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\OOP_Lab8_cpp\Debug\OOP_Lab8_cpp.pdb
