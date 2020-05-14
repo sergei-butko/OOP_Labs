@@ -1,0 +1,9 @@
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\bin\Debug\netcoreapp3.1\MyLibrary_Lab8.deps.json
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\bin\Debug\netcoreapp3.1\MyLibrary_Lab8.dll
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\bin\Debug\netcoreapp3.1\MyLibrary_Lab8.pdb
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\obj\Debug\netcoreapp3.1\MyLibrary_Lab8.csprojAssemblyReference.cache
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\obj\Debug\netcoreapp3.1\MyLibrary_Lab8.csproj.CoreCompileInputs.cache
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\obj\Debug\netcoreapp3.1\MyLibrary_Lab8.AssemblyInfoInputs.cache
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\obj\Debug\netcoreapp3.1\MyLibrary_Lab8.AssemblyInfo.cs
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\obj\Debug\netcoreapp3.1\MyLibrary_Lab8.dll
+C:\Documents\КПИ\Семестр №2\Програмування - 2\Лабораторні Роботи\OOP_Labs\MyLibrary_Lab8\obj\Debug\netcoreapp3.1\MyLibrary_Lab8.pdb
