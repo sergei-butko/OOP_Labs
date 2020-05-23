@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOo+85oUBEVxf0J3UNFyOanbyWNbJp4QGgw7LfTo9T/DGMB8GN+uzyJ87zWiowI4dRuLlvyTF+cG1fPuBeRgiQ==",
+  "success": true,
+  "projectFilePath": "C:\\Documents\\КПИ\\Семестр №2\\Програмування - 2\\Лабораторні Роботи\\OOP_Labs\\OOP_Lab7_cs\\OOP_Lab7_cs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
